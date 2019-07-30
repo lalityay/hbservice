@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lalitya/Documents/code/hbservice/hbservice.csproj": {}
+  },
+  "projects": {
+    "/home/lalitya/Documents/code/hbservice/hbservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lalitya/Documents/code/hbservice/hbservice.csproj",
+        "projectName": "hbservice",
+        "projectPath": "/home/lalitya/Documents/code/hbservice/hbservice.csproj",
+        "packagesPath": "/home/lalitya/.nuget/packages/",
+        "outputPath": "/home/lalitya/Documents/code/hbservice/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/lalitya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

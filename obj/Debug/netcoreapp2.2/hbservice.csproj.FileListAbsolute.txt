@@ -1,0 +1,16 @@
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/hbservice.deps.json
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/hbservice.runtimeconfig.json
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/hbservice.runtimeconfig.dev.json
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/hbservice.dll
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/hbservice.pdb
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.csprojAssemblyReference.cache
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.csproj.CoreCompileInputs.cache
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.RazorAssemblyInfo.cache
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.RazorAssemblyInfo.cs
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.AssemblyInfoInputs.cache
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.AssemblyInfo.cs
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.RazorTargetAssemblyInfo.cache
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.dll
+/home/lalitya/Documents/code/hbservice/obj/Debug/netcoreapp2.2/hbservice.pdb
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/ModHeader.crx
+/home/lalitya/Documents/code/hbservice/bin/Debug/netcoreapp2.2/cookie.txt
